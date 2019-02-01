@@ -20,11 +20,11 @@ BLOG_AUTHOR = "Igor Montagner"  # (translatable)
 BLOG_TITLE = "Ensino em Computação"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "https://ensino-em-computacao.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "n.tesla@example.com"
+BLOG_EMAIL = "igordsm+blog+ensino@gmail.com"
 BLOG_DESCRIPTION = "Blog sobre Ensino em Computação."  # (translatable)
 
 # Nikola is multilingual!
