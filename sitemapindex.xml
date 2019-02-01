@@ -6,59 +6,31 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/authors/bla.xml</loc>
-  <lastmod>2019-02-01T19:37:00Z</lastmod>
+  <loc>https://ensino-em-computacao.github.io/categories/cat_trabalhos-de-alunos.xml</loc>
+  <lastmod>2019-02-01T20:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/authors/igor-montagner.xml</loc>
-  <lastmod>2019-02-01T19:43:00Z</lastmod>
+  <loc>https://ensino-em-computacao.github.io/categories/desenvolvimento-aberto.xml</loc>
+  <lastmod>2019-02-01T20:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/authors/igordsm.xml</loc>
-  <lastmod>2019-01-22T17:54:00Z</lastmod>
+  <loc>https://ensino-em-computacao.github.io/categories/disciplinas.xml</loc>
+  <lastmod>2019-02-01T20:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/authors/nikola-tesla.xml</loc>
-  <lastmod>2019-02-01T19:26:00Z</lastmod>
+  <loc>https://ensino-em-computacao.github.io/categories/software-livre.xml</loc>
+  <lastmod>2019-02-01T20:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/avaliacao.xml</loc>
-  <lastmod>2019-02-01T19:43:00Z</lastmod>
+  <loc>https://ensino-em-computacao.github.io/galleries/rss.xml</loc>
+  <lastmod>2019-02-01T20:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/cat_ensino.xml</loc>
-  <lastmod>2019-02-01T19:43:00Z</lastmod>
+  <loc>https://ensino-em-computacao.github.io/rss.xml</loc>
+  <lastmod>2019-02-01T20:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/cat_trabalhos-de-alunos.xml</loc>
-  <lastmod>2018-12-31T16:07:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/categories/desenvolvimento-aberto.xml</loc>
-  <lastmod>2018-12-31T16:07:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/categories/disciplinas.xml</loc>
-  <lastmod>2018-12-31T16:07:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/categories/ensino.xml</loc>
-  <lastmod>2018-12-31T16:04:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/categories/software-livre.xml</loc>
-  <lastmod>2018-12-31T16:07:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2019-02-01T20:25:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/rss.xml</loc>
-  <lastmod>2019-02-01T20:25:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2019-02-01T20:25:00Z</lastmod>
+  <loc>https://ensino-em-computacao.github.io/sitemap.xml</loc>
+  <lastmod>2019-02-01T20:27:00Z</lastmod>
  </sitemap>
 </sitemapindex>

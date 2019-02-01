@@ -6,95 +6,47 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://example.com/</loc>
+  <loc>https://ensino-em-computacao.github.io/</loc>
   <lastmod>2019-01-29T13:20:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2018/</loc>
+  <loc>https://ensino-em-computacao.github.io/2018/</loc>
   <lastmod>2019-01-29T13:19:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2019/</loc>
-  <lastmod>2019-01-29T13:19:00Z</lastmod>
+  <loc>https://ensino-em-computacao.github.io/archive.html</loc>
+  <lastmod>2019-02-01T20:27:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/archive.html</loc>
+  <loc>https://ensino-em-computacao.github.io/categories/</loc>
   <lastmod>2019-02-01T20:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/authors/</loc>
-  <lastmod>2019-02-01T19:37:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/authors/bla/</loc>
-  <lastmod>2019-02-01T19:37:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/authors/igor-montagner/</loc>
-  <lastmod>2019-02-01T19:35:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/authors/igordsm/</loc>
-  <lastmod>2019-01-29T13:56:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/authors/nikola-tesla/</loc>
-  <lastmod>2019-01-29T14:09:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/</loc>
-  <lastmod>2019-01-29T14:34:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/avaliacao/</loc>
-  <lastmod>2019-01-29T14:09:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/cat_ensino/</loc>
-  <lastmod>2019-01-29T14:11:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/cat_trabalhos-de-alunos/</loc>
+  <loc>https://ensino-em-computacao.github.io/categories/cat_trabalhos-de-alunos/</loc>
   <lastmod>2019-01-29T15:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/desenvolvimento-aberto/</loc>
+  <loc>https://ensino-em-computacao.github.io/categories/desenvolvimento-aberto/</loc>
   <lastmod>2019-01-29T14:58:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/disciplinas/</loc>
+  <loc>https://ensino-em-computacao.github.io/categories/disciplinas/</loc>
   <lastmod>2019-01-29T14:15:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/ensino/</loc>
-  <lastmod>2019-01-29T13:59:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/software-livre/</loc>
+  <loc>https://ensino-em-computacao.github.io/categories/software-livre/</loc>
   <lastmod>2019-01-29T14:27:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/</loc>
+  <loc>https://ensino-em-computacao.github.io/galleries/</loc>
   <lastmod>2019-01-29T13:38:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/</loc>
+  <loc>https://ensino-em-computacao.github.io/listings/</loc>
   <lastmod>2019-01-29T13:33:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/posts/apresentacao-do-blog/</loc>
-  <lastmod>2019-01-29T14:30:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/posts/ciencia-dos-dados-do-dia-a-dia/</loc>
-  <lastmod>2019-01-29T15:08:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/posts/contribuicoes-em-software-livre-por-alunos-da-disciplina-desenvolvimento-aberto/</loc>
+  <loc>https://ensino-em-computacao.github.io/posts/contribuicoes-em-software-livre-por-alunos-da-disciplina-desenvolvimento-aberto/</loc>
   <lastmod>2019-01-31T14:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/posts/o-que-e-uma-rubrica/</loc>
-  <lastmod>2019-01-29T14:27:00Z</lastmod>
  </url>
 </urlset>
