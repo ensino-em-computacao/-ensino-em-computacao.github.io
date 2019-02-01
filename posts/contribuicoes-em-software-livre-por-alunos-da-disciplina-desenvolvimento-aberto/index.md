@@ -1,7 +1,7 @@
 <!--
 .. title: Contribuições em Software Livre por alunos da Disciplina Desenvolvimento Aberto
 .. slug: contribuicoes-em-software-livre-por-alunos-da-disciplina-desenvolvimento-aberto
-.. date: 2018-12-31 14:03:35 UTC-02:00
+.. date: 2018-02-01 14:03:35 UTC-02:00
 .. author: igordsm
 .. tags: Software Livre, Desenvolvimento Aberto, Disciplinas
 .. category: Trabalhos de Alunos
